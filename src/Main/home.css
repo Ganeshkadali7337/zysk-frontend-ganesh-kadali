@@ -106,7 +106,6 @@ select {
   color: #6941c6;
   font-size: 14px;
   font-weight: 500;
-  gap: 5px;
 }
 
 .head1 {
@@ -579,10 +578,8 @@ details[open] > summary::after {
   }
   .f1 {
     padding: 2px 8px 2px 8px;
-    gap: 0px;
     border-radius: 18px;
     border: 1px 0px 0px 0px;
-    opacity: 0px;
     font-size: 12px;
   }
   .p2 {
