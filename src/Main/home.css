@@ -70,10 +70,8 @@ select {
   width: 335px;
   height: 30px;
   padding: 4px 10px 4px 4px;
-  gap: 12px;
   border-radius: 20px;
   border: 1px 0px 0px 0px;
-  opacity: 0px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -571,10 +569,8 @@ details[open] > summary::after {
     width: 295px;
     height: 28px;
     padding: 4px 10px 4px 4px;
-    gap: 8px;
     border-radius: 18px;
     border: 1px 0px 0px 0px;
-    opacity: 0px;
   }
   .f1 {
     padding: 2px 8px 2px 8px;
